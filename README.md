@@ -1,7 +1,3 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 # Designing and Testing Asynchronous FIFO Queues
 The code presented in this repository was part of a paper written for the course "Metastability-Containing Hardware" which is taught by Dr. Moti Medina within the Faculty of Engineering at Bar Ilan University
 
